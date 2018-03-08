@@ -1,0 +1,287 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+.heading{
+	font-size:35px;
+	font-family:Arial;
+	font-weight:bold;
+	color:#fff;
+}
+.rdmsubheading{font-size:20px; color:#fff;}
+.bg-dark{background-color:#3671B5 !important;}
+.btn-secondary{background:#f8f9fa !important; color:#3671B5 !important; width:200px; text-align:left;}
+.btn-secondary:hover{background:#fff !important; color:#3671B5 !important;}
+.dropdown-menu{left:26%;}
+.countryhead{color:#fff; font-size:14px; font-weight:bold;}
+.dropdown {margin-top:2%; margin-right:1%;}
+.container{max-width:100%!important; width:98%;padding:5px; padding-top:0px;}
+.containerbody{margin-top:90px;}
+#accordion .glyphicon { margin-right:10px; }
+.panel-collapse>.list-group .list-group-item:first-child {border-top-right-radius: 0;border-top-left-radius: 0;}
+.panel-collapse>.list-group .list-group-item {border-width: 1px 0;}
+.panel-collapse>.list-group {margin-bottom: 0;}
+.panel-collapse .list-group-item {border-radius:0;}
+.panel-group{width:100%;}
+.prdsubhead{background:#f8f9fa!important;  margin-bottom:10px;padding:5px 0px 5px 0px; overflow:hidden;}
+.prdsubhead span{color:#3671B5; font-size:15px; font-weight:bold; line-height:40px; padding-left:15px;}
+.prdsubhead p{color:#3671B5; font-size:11px; font-weight:bold; line-height:20px; padding-left:15px;}
+.theadbg{background:#0099CC; color:#fff}
+.autoapproveprod .form-control{width:23% !important; display:inline-block !important;}
+
+.dropdown-menu{width:200px;}
+footer{position:static; bottom:0px; width:100%}
+.dataTables_length{display:none;}
+#example_filter{width: 100%;float: right;}
+div.dataTables_wrapper div.dataTables_filter label{float:right;width:60%;}
+div.dataTables_wrapper div.dataTables_filter input{width:100%;}
+#example_paginate{}
+#datatablemain_filter{display:none;}
+
+.dataTables_info{}prdsubhead
+.landingpage .dataTables_length{display:none !important}
+.landingpage .dataTables_info{display:none !important}
+.landingpage #example_paginate{display:none !important}
+.landingpage #example_filter{display:none !important}
+#datatablemain .dropdown-toggle::after{display:none;}
+ 
+thead{background-color:#3671B5; color:#fff;}
+.datepicker {top:306px !important; width:208px !important;}
+.datepicker td, .datepicker th{border-radius:0 !important; -webkit-border-radius:0 !important;}
+table.dataTable.no-footer{border-bottom:none !important;}
+#datatablemain_wrapper .row{width:100% !important;}
+.Pfizerrow{background:#f1f1f1; padding:5px; margin-bottom:10px;}
+#CreateRDMUser .modal-dialog{max-width:40%}
+#AddmatchModal .modal-dialog{width: 50%;min-width: 60%;}
+#Editsplitsmodal .modal-dialog{width: 50%;min-width: 80%;}
+#Editsplitsetup .col-xs-4{padding:0px;}
+#Editsplitsetup .col-xs-8{padding:0px;}
+#EditsplitData .col-xs-4{padding:0px;}
+#EditsplitData .col-xs-8{padding:0px;}
+#EditsplitData .panel-heading{padding:5px 5px 10px 5px !important; border-bottom:1px solid #ddd !important; margin-bottom:10px !important;}
+.Radiobot{margin-bottom:10px;}
+#Textclear {
+    position: absolute;
+    right: 5px;
+    top: 0;
+    bottom: 0;
+    height: 14px;
+    margin: auto;
+    font-size: 14px;
+    cursor: pointer;
+    color: #ccc;
+}
+select.form-control:not([size]):not([multiple]){height:34px;}
+.glyphicon-plus:before{color:#32CD32}
+.Addlevel .btn-default{background:#f8f9fa;}
+.Addlevel .btn-default:hover{background:#eee;}
+.handlemain{background:#3671B5;color:#fff;}
+.handlemaininter{background:#77a3d6;color:#fff;}
+.dd-item > button:before{font-size:20px;line-height:0.7; color:#fff;}
+tfoot{
+    display:  table-header-group;
+}
+
+::-ms-clear {;
+  display: none;
+}
+
+.form-control-clear {
+  z-index: 10;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+label{font-weight:400;}
+.detailgrid{margin-top:1%;}
+.detailgrid .panel .panel-heading{padding-bottom:5px !important;}
+.detailgrid .panel-body{padding:0px !important;}
+.detailgrid thead{background-color:#ddd; background:linear-gradient(to bottom, #f1f1f1, #ddd); color:#333;}
+.detailgrid .table>thead>tr>th{font-size:12px !important;}
+.detailgrid .form-group{margin-bottom:0px !important;}
+.Laoddata{background:#f7f7f7;position: relative;right: -25px;top: -10px;box-shadow: 0 1px 1px rgba(0,0,0,.17);font-size: 11px;padding-top: 5px;}
+.Laoddata label{display:block;}
+.checkbox-inline, .radio-inline{padding:0px !important;}
+.modal-header .close {
+    padding: 15px !important;
+    margin: -15px -15px -15px auto !important;
+}
+.dataTables_wrapper{height: 400px;overflow: scroll;}
+div.dataTables_wrapper div.dataTables_length select{margin-left:10px; margin-right:10px;}
+.panel-body{padding:10px !important;}
+#tab2default .container-fluid{padding:0px !important;margin:0px !important;}
+.datahead{background:#f8f9fa!important; padding:0px 0px 7px 0px; color:#3671B5; margin-bottom:10px !important;}
+.dataheadicon{}
+.datahead span{font-size:12px; padding-left:5px; color:#3671B5}
+.table-bordered{font-size:12px;}
+.modal-header{background:#f5f5f5; color:#3671B5;}
+.pagination{margin:0px !important;}
+.page-item.active .page-link {
+    z-index: 2;
+    color: #fff;
+    background-color: #3671B5 !important;
+    border-color: #3671B5 !important;
+
+}
+#tab4default option{padding-bottom:3px; font-size:12px;}
+#example_wrapper .row{width:100%;}
+.btn-outline-primary {
+    color: #337ab7;
+    background-color: transparent;
+    background-image: none;
+border-color: #337ab7; margin-top:8px; font-size:11px;}
+.btn{padding:4px 10px !important}
+.btn-outline-primary:hover{background-color: #337ab7;
+    border-color: #337ab7; color:#fff !important}
+	
+		.breadcrumb {
+		padding:0 !important;
+		margin-bottom: 0 !important;
+		list-style: none !important;
+		background-color: none !important;
+		border-radius: none !important;
+		}
+.breadcrumb-item+.breadcrumb-item::before {
+    display: inline-block;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    color: #868e96;
+    content: "/";
+    font-size: 20px;
+}
+.list-group-item{border-top:0px;padding:5px 15px;}
+.list-group{margin-top:10px;height: 150px;overflow-y: scroll;border: 1px solid #ddd;border-radius: 4px;}
+.list-group-item:first-child{border:none !important}
+.landingpage ul{margin:0px padding:0px;}
+.landingpage ul li{list-style:none; display:inline-block;}
+.imports{border-right:1px solid #3671B5;}
+.fa-th:before{font-size:20px; color:#3671B5; margin-left:5px;}
+.header .dropdown-toggle::after{margin-left: 5.255em; float: right;margin-top: 4%;}
+.header .btn{padding: 6px 12px!important;}
+.detailpage ul{margin:0px; padding:0px;}
+.detailpage ul li{list-style:none; display:inline-block;}
+.Matchpage ul{margin:0px; padding:10px 0px 5px 0px;}
+.Matchpage ul li{list-style:none; display:inline-block;}
+.Matchpage detailgrid thead{background-color:#3671B5}
+#internalproduct .modal-body{overflow:scroll;}
+#Marketrules .modal-dialog{width:50% !important; max-width:50% !important}
+#confirmation .search{ position: absolute;
+    right: 18px;
+    z-index: 100;
+    top: 6px; font-size:17px;}
+	#Preview .modal-dialog{width:70% !important; max-width:70% !important}
+	#pfizerbrand .modal-dialog{width:50% !important; max-width:45% !important}
+
+
+
+.panel.with-nav-tabs .panel-heading{
+    padding: 5px 5px 0 5px;
+}
+.panel.with-nav-tabs .nav-tabs{
+	border-bottom: none;
+}
+.panel.with-nav-tabs .nav-justified{
+	margin-bottom: -1px;
+}
+/********************************************************************/
+/*** PANEL DEFAULT ***/
+.with-nav-tabs.panel-default .nav-tabs > li > a,
+.with-nav-tabs.panel-default .nav-tabs > li > a:hover,
+.with-nav-tabs.panel-default .nav-tabs > li > a:focus {
+    color: #777;
+}
+.with-nav-tabs.panel-default .nav-tabs > .open > a,
+.with-nav-tabs.panel-default .nav-tabs > .open > a:hover,
+.with-nav-tabs.panel-default .nav-tabs > .open > a:focus,
+.with-nav-tabs.panel-default .nav-tabs > li > a:hover,
+.with-nav-tabs.panel-default .nav-tabs > li > a:focus {
+    color: #777;
+	background-color: #ddd;
+	border-color: transparent;
+}
+.with-nav-tabs.panel-default .nav-tabs > li.active > a,
+.with-nav-tabs.panel-default .nav-tabs > li.active > a:hover,
+.with-nav-tabs.panel-default .nav-tabs > li.active > a:focus {
+	color: #555;
+	background-color: #fff;
+	border-color: #ddd;
+	border-bottom-color: transparent;
+}
+.with-nav-tabs.panel-default .nav-tabs > li.dropdown .dropdown-menu {
+    background-color: #f5f5f5;
+    border-color: #ddd;
+}
+.with-nav-tabs.panel-default .nav-tabs > li.dropdown .dropdown-menu > li > a {
+    color: #777;   
+}
+.with-nav-tabs.panel-default .nav-tabs > li.dropdown .dropdown-menu > li > a:hover,
+.with-nav-tabs.panel-default .nav-tabs > li.dropdown .dropdown-menu > li > a:focus {
+    background-color: #ddd;
+}
+.with-nav-tabs.panel-default .nav-tabs > li.dropdown .dropdown-menu > .active > a,
+.with-nav-tabs.panel-default .nav-tabs > li.dropdown .dropdown-menu > .active > a:hover,
+.with-nav-tabs.panel-default .nav-tabs > li.dropdown .dropdown-menu > .active > a:focus {
+    color: #fff;
+    background-color: #555;
+}
+
+/* Custom Radio/Checkbox */
+.cr-styled {
+    display: inline-block;
+    margin: 0px 2px;
+    line-height: 20px;
+    font-weight: normal;
+    cursor: pointer;
+}
+.cr-styled i {
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    cursor: pointer;
+    vertical-align: middle;
+    border: 2px solid #CCC;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 1px;
+    font-family: 'FontAwesome';
+    margin-top: -4px;
+    margin-right: 3px;
+    font-size: 12px;
+}
+.cr-styled input {
+    visibility: hidden;
+    display: none;
+}
+.cr-styled input[type=checkbox]:checked + i:before {
+    content: "\f00c";
+}
+.cr-styled input[type=radio] + i {
+    border-radius: 18px;
+    font-size: 11px;
+    line-height: 13px;
+}
+
+.cr-styled input[type=radio]:checked + i:before {
+    content: "\f111";
+}
+.cr-styled input:checked + i {
+    border-color: #6e8cd7;
+    color: #6e8cd7;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:active{
+	background: none;
+	box-shadow: none;
+	border: none;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+	background: none;
+	box-shadow: none;
+	border: none;
+	
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+	margin:0;padding:0;
+}

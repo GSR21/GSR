@@ -1,0 +1,9 @@
+Column reordering 
+
+https://stackoverflow.com/questions/21395363/dragging-a-table-column-using-html5-and-angularjs
+
+var headerElem=e.target.closest('th');
+          var textOfHeader=angular.element(headerElem).find("a");
+          scope.$apply(function() {
+            scope[dropfn](data, textOfHeader[0]);
+          });

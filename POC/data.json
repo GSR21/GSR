@@ -1,0 +1,36 @@
+ {
+   "myData": [{
+     
+     "name": "Jay",
+     "address": "Mumbai 27",
+     "company": "Facebook",
+     "skill": "Js"
+   }, {
+     "name": "Rayn",
+     "address": "Mumbai 30",
+     "company": "EData",
+     "skill": ".net"
+   }, {
+     "name": "Stan",
+     "address": "Shimla29",
+     "company": "Amazon",
+     "skill": "Java"
+   }, {
+     "name": "Stan",
+     "address": "USA",
+     "company": "Amazon",
+     "skill": "Java"
+   },
+    {
+     "name": "Bob",
+     "address": "Jaipur 40",
+     "company": "E-bay",
+     "skill": "C"
+   },
+   {
+     "name": "Clark",
+     "address": "Suncity 32",
+     "company": "Google",
+     "skill": "Python"
+   }]
+ }
